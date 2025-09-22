@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://avaliamelhores-wq.github.io/exercicio-online/sitemap.xml
